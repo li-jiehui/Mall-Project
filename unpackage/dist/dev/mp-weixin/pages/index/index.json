@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商城+短视频+资讯",
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "goods-list": "/components/goods-list/goods-list"
+  }
+}
